@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.choiceBtn {
+    line-height: 30px;
+    width: 150px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    background-color: #fff;
+    color: #000;
+}
+
+#gameDiv {
+    width: 80%;
+    font-family: 'Verdana', sans-serif;
+    border: 3px solid;
+    border-radius:  25px;
+    padding: 10px;
+    background-color: #525252;
+    text-align: center;
+}
+
+#playerText {
+    color: #AFD3E2;
+}
+
+#computerText {
+    color: #E76161;
+}
+
+#resultText {
+    color: #CBB279;
+}
+
+#gameTitle {
+    color: #fff;
+}
